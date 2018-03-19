@@ -1,5 +1,2 @@
-public with sharing class sample {
-	
-	systemdebug();
-    
+public with sharing class sample {	    
 }
